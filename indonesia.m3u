@@ -1,0 +1,33 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://cdn-static.metube.id/live/image/J8raYWeJPgXCFy8XA9Fz.jpg",INDOSIAR
+https://cdn-livetv2.metube.id/hls/indosiar.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn-static.metube.id/live/image/vOlIUUztCfY1EQfHzxnp.png",MNC TV
+https://cdn-livetv2.metube.id/hls/mnctv.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn-static.metube.id/live/image/TXkwS0qyRGLtritIbMBB.jpg",TRANS TV
+https://cdn-livetv2.metube.id/hls/transtv.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn-static.metube.id/live/image/NaO7D1kxjrKyjzq5mbnM.jpg",ANTV
+https://cdn-livetv2.metube.id/hls/antv.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn-static.metube.id/live/image/uu9g0YBXTlWjim6N2CPX.jpeg",GTV
+https://cdn-livetv2.metube.id/hls/globaltv.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn-static.metube.id/live/image/ahS5tcufBJl6oRpmtlwX.png",RCTI
+https://cdn-livetv2.metube.id/hls/rcti.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn-static.metube.id/live/image/1jqoSVtfCN9cYQhmZHBp.jpg",SCTV
+https://cdn-livetv1.metube.id/hls/sctv.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn-static.metube.id/live/image/opkGfXGPECz0TccrYDgG.jpg",TV 0NE
+https://cdn-livetv1.metube.id/hls/tvone.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn-static.metube.id/live/image/hjR5ayFTqQrGJgq9M7yg.jpg",METRO TV
+https://cdn-livetv1.metube.id/hls/metrotv.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn-static.metube.id/live/image/ETmauSSADRjvijcVLDwR.jpg",TRANS7
+https://cdn-livetv2.metube.id/hls/trans7.m3u8
+
+
+
